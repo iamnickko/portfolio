@@ -12,11 +12,7 @@ export default function Experience() {
         role="Technical Upskilling"
         company=""
         companySummary="Committed time to transform my skillset"
-        summary="Transformed my skillset through self-study in preparation for a new role in software 
-        development with a focus on JavaScript. I built upon an existing knowledge of web 
-        technologies from exposure in previous roles as an E-Commerce and digital marketing 
-        professional such as WordPress, Shopify, and a range of supporting technologies such as 
-        Photoshop, Illustrator, and Google Marketing tools."
+        summary="Transformed my skillset through self-study in preparation for a new role in software development with a focus on JavaScript. Initial programming concepts were learnt in Python before focussing on React.js for front-end development and Node.js for back-end development. Other technologies used include Next.js, Express.js, MongoDB, and Tailwind CSS."
       />
       <EmployerCard
         start="June 2021"
